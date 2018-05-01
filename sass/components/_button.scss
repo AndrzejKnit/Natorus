@@ -9,7 +9,7 @@
         border-radius: 10rem;
         transition: all .2s;
         position: relative;
-        font-size: $default-fot-size;
+        font-size: $default-font-size;
     }
     &:hover {
         transform: translateY(-0.3rem);
@@ -59,7 +59,7 @@
 .btn-text {
     &:link,
     &:visited {
-        font-size: $default-fot-size;
+        font-size: $default-font-size;
         color: $color-primary;
         display: inline-block;
         text-decoration: none;
